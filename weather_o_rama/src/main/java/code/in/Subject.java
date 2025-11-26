@@ -5,5 +5,5 @@ public interface Subject {
 
     public void removeObserver(Observer o);
 
-    public void notfiyObserver(Observer o);
+    public void notfiyObservers();
 }
