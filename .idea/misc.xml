@@ -5,6 +5,9 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/simple_observer/pom.xml" />
+        <option value="$PROJECT_DIR$/starbuzz_cafe/pom.xml" />
+        <option value="$PROJECT_DIR$/mini_duck_simulator/pom.xml" />
+        <option value="$PROJECT_DIR$/weather_o_rama/pom.xml" />
       </list>
     </option>
   </component>
