@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="starbuzz" />
+        <module name="pizzastore" />
         <module name="mini_duck_simulator" />
         <module name="weather_o_rama" />
         <module name="simple_observer" />
